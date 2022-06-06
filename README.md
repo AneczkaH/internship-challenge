@@ -1,4 +1,4 @@
-# Noledge Tech Internship Challenge
+# Internship Challenge
 
 ## Table of Contents
 - [General Info](#general-information)
@@ -30,7 +30,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://AneczkaH@bitbucket.org/aneczkah/intership.git
+$ git clone git@github.com:AneczkaH/internship.git
 
 # Go into the repository
 $ cd intership
